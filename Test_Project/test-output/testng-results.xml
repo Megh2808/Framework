@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="1" total="2" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-06-08T11:59:30 IST" name="Default suite" finished-at="2023-06-08T11:59:31 IST" duration-ms="1100">
+    <groups>
+    </groups>
+    <test started-at="2023-06-08T11:59:30 IST" name="Default test" finished-at="2023-06-08T11:59:31 IST" duration-ms="1100">
+      <class name="Test_Project.Test_Project.Test_Class">
+        <test-method signature="palindrome()[pri:0, instance:Test_Project.Test_Project.Test_Class@66498326]" started-at="2023-06-08T11:59:30 IST" name="palindrome" description="To check palindrome" finished-at="2023-06-08T11:59:31 IST" duration-ms="1076" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- palindrome -->
+      </class> <!-- Test_Project.Test_Project.Test_Class -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
